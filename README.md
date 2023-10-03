@@ -1,1 +1,1 @@
-# github-actions-exampl
+# github-actions-example
